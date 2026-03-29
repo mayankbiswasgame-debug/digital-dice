@@ -19,7 +19,7 @@ This project is a smart digital dice built using ESP32 and LEDs. It simulates a 
 When an object is detected by the ultrasonic sensor, the ESP32 generates a random number and displays it using LEDs like a real dice.
 
 ## 📸 Demo
-(Add your demo video link here)
+( https://youtu.be/xlKCe6CMapU )
 
 ## 🔗 GitHub Repository
-(Your repo link)
+( https://github.com/mayankbiswasgame-debug/digital-dice )
