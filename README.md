@@ -23,3 +23,7 @@ When an object is detected by the ultrasonic sensor, the ESP32 generates a rando
 
 ## 🔗 GitHub Repository
 ( https://github.com/mayankbiswasgame-debug/digital-dice )
+
+## 🔌 Circuit Diagram
+
+![Schematic](schematic.png)
